@@ -1,4 +1,4 @@
-# Wiki
+# UniSchedule
 
 ![Frame 71](https://github.com/ISIS3510-202410-Team-13/Wiki/assets/68788933/9c4325ee-a0f3-4170-abc3-88ccbb0ab94b)
 
