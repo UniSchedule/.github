@@ -18,6 +18,6 @@ UniSchedule is a comprehensive mobile application designed primarily for univers
 
 ## Development Team
 
+* David Santiago Ortiz Almanza - ds.ortiz@uniandes.edu.co - [SnowArtz](https://github.com/SnowArtz)
 * Juan Sebastian Urrea Lopez - js.urrea@uniandes.edu.co - [jsurrea](https://github.com/jsurrea)
 * Juan Esteban Cuellar Argotty - j.cuellara@uniandes.edu.co - [iGotty](https://github.com/iGotty)
-* David Santiago Ortiz Almanza - ds.ortiz@uniandes.edu.co - [SnowArtz](https://github.com/SnowArtz)
